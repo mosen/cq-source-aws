@@ -3,3 +3,4 @@ aws
 cloudquery.log
 *.iml
 .idea
+.cq
