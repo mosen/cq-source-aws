@@ -1,0 +1,5 @@
+aws
+
+cloudquery.log
+*.iml
+.idea
